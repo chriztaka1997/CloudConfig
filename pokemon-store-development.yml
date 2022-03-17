@@ -1,9 +1,10 @@
 spring:
   application:
-    name: pokemon-store
+    name: Person
 
 server:
   port: 0
 
 user:
-  role: ADMIN
+  firstName: Chris
+  lastName: Taka
